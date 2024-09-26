@@ -14,10 +14,14 @@ Welcome to Battleknight Esports! We are a competitive esports organization dedic
 
 Our flagship tournament featuring top teams from across India.
 
-### MLBB Championship Round 2 Day 2
+### MLBB Championship
 ![MLBB Championship](https://img.shields.io/badge/MLBB-Championship-red?style=for-the-badge)
 
 Intense battles in Mobile Legends: Bang Bang with the best teams in the region.
+
+### Battleknights Project India Season 1
+![Project India Season 1](https://img.shields.io/badge/Project%20India-Season%202-blue?style=for-the-badge)
+
 
 ### Charity Initiatives
 ![Charity Events](https://img.shields.io/badge/Charity-Events-green?style=for-the-badge)
