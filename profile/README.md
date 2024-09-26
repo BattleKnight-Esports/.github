@@ -19,7 +19,7 @@ Our flagship tournament featuring top teams from across India.
 
 Intense battles in Mobile Legends: Bang Bang with the best teams in the region.
 
-### Battleknights Project India Season 1
+### Battleknights Project India Season 2
 ![Project India Season 1](https://img.shields.io/badge/Project%20India-Season%202-blue?style=for-the-badge)
 
 
